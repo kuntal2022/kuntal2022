@@ -1,8 +1,8 @@
 
 
 
-<a href="https://github.com/Kuntal2022">
-  <img src="https://github.com/kuntal2022/kuntal2022/blob/main/git.gif" alt="Interactive banner for Kuntal2022" style="width: 100%; max-width: 100px;">
+<a align="center" href="https://github.com/Kuntal2022">
+  <img align="center" src="https://github.com/kuntal2022/kuntal2022/blob/main/xxxvvv.gif" alt="Interactive banner for Kuntal2022" style="width: 150%; max-width: 100px;">
 </a>
 
 
@@ -18,7 +18,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuntal2022&label=Profile%20views&color=0e75b6&style=flat" alt="kuntal2022" /> </p>
 
-- 🔭 I’m currently working on **Fertilizer Analysis**
+- 🔭 I’m currently working on **Credit Card Fraud Detection ML Project**
 
 - 🌱 I’m currently learning **Computer Vision**
 
