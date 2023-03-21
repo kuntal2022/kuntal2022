@@ -12,7 +12,8 @@
 
 - 💬 Ask me about **Python, SQL, ML, Tableau**
 
-- 📫 How to reach me **kuntalmentor@gmail.com**
+- 📫 Email_id1 **kuntalmentor@gmail.com**
+- 📫 Email_id2 **kuntal_c@yahoo.in**
 
 <h3 align="left">You may search me in:</h3>
 <p align="left">
