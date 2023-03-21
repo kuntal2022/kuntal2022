@@ -32,5 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuntal2022&" alt="kuntal2022" /></p>
 
-### Connect with me:
+
 
