@@ -2,7 +2,7 @@
 
 
 <a align="center" href="https://github.com/Kuntal2022">
-  <img align="center" src="https://github.com/kuntal2022/kuntal2022/blob/main/xxxvvv.gif" alt="Interactive banner for Kuntal2022" style="width: 150%; max-width: 100px;">
+  <img align="center" src="https://github.com/kuntal2022/kuntal2022/blob/main/pyt.gif" alt="Interactive banner for Kuntal2022" style="width: 100%; max-width: 800px;">
 </a>
 
 
