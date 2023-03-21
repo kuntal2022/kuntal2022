@@ -1,7 +1,9 @@
-# Kuntal2022
 
-[![Interactive banner for Kuntal2022](filename.gif)](https://github.com/Kuntal2022)
 
+
+<a href="https://github.com/Kuntal2022">
+  <img src="https://github.com/kuntal2022/kuntal2022/blob/main/git.gif" alt="Interactive banner for Kuntal2022" style="width: 100%; max-width: 300px;">
+</a>
 
 
 
