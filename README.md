@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Kuntal Chakraborty</h1>
 <h3 align="center">A passionate Data Science Lover Indian</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="300"/>
