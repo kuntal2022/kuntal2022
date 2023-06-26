@@ -1,19 +1,17 @@
 
 
+<body>
 
 
 
 
 
-
-
-
-<h1 align="center" style = "background-color:blue">Hi 👋, I'm Kuntal Chakraborty </h1>
+<h1 align="center" >Hi 👋, I'm Kuntal Chakraborty </h1>
 </h1> 
 <h2 align="center"><b style="color: blue;">📈 Data Analyst 📈</b></h2>
 <h3 align="center"><b style="color: blue;">A passionate Data Science Lover</b></h3>
 
-
+<div>
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="300"/>
 
 
@@ -53,6 +51,8 @@
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuntal2022&show_icons=true&locale=en" alt="kuntal2022" />
 
 <p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuntal2022&" alt="kuntal2022" /></p>
+</div>
+</body>
 
 
-
+</html>
