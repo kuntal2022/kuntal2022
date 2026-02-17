@@ -8,7 +8,7 @@
 
 <h1 align="center" >Hi 👋, I'm Kuntal Chakraborty </h1>
 </h1> 
-<h2 align="center"><b style="color: blue;">📈 Data Analyst 📈</b></h2>
+<h2 align="center"><b style="color: blue;">📈 Data Scientist 📈</b></h2>
 <h3 align="center"><b style="color: blue;">A passionate Data Science Lover</b></h3>
 
 <div>
