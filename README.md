@@ -34,8 +34,8 @@
 
 ```python
 kuntal = {
-    "role"        : "Senior Data Scientist @ Landmark Group",
-    "location"    : "Dubai, UAE 🇦🇪",
+    "role"        : "Data Scientist @ Landmark Group",
+    "location"    : "Indai",
     "focus"       : ["Gen AI", "Agentic AI", "LLMs", "Customer Analytics"],
     "expertise"   : ["ML/DL", "PySpark", "NLP", "CRM Automation"],
     "ask_me_about": ["Python", "SQL", "PySpark", "ML", "GenAI", "LangChain"],
