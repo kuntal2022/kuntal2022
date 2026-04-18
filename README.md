@@ -19,11 +19,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuntal2022&label=Profile%20views&color=0e75b6&style=flat" alt="kuntal2022" /> </p>
 
 - 💼 I am a DS in Landmark Group
-- 🔭 I’m currently working on **Credit Card Fraud Detection ML Project**
+- 🔭 I’m currently working on **Gen AI Projects**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Gen AI related Topics**
 
-- 💬 Ask me about **Python, SQL, ML, Tableau**
+- 💬 Ask me about **Python, SQL, Pyspark, ML, DL, GenAI, AgenticAI**
 
 - 🖥️ Email_id1 **kuntalmentor@gmail.com**
 - 🖥️ Email_id2 **kuntal_c@yahoo.in**
