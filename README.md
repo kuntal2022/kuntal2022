@@ -1,149 +1,109 @@
-<div align="center">
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Kuntal+Chakraborty;Senior+Data+Scientist;GenAI+%7C+LLMs+%7C+Agentic+AI;Building+AI+Products+at+Scale" /><br/><!-- Modern Banner --><img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1200&auto=format&fit=crop" width="90%" style="border-radius:20px;" /><br/><br/>
 
-<!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kuntal+Chakraborty+%F0%9F%91%8B;Senior+Data+Scienti
-st+%F0%9F%93%88;ML+%7C+GenAI+%7C+LLMs+%7C+Agentic+AI;Building+Intelligent+Systems+%F0%9F%A4%96" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380" height="280" alt="Coding GIF"/>
-
-<br/>
-
-<!-- Profile views + social badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=kuntal2022&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=kuntal2022&label=Profile+Views&color=0e75b6&style=flat-square"/>
   &nbsp;
   <a href="https://www.linkedin.com/in/kuntalchakrabortyindia/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://kaggle.com/kuntal09">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.youtube.com/@dataring">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
   </a>
-</p>
+</p></div>---
 
-</div>
+🧠 About Me
 
----
-
-## 🧠 About Me
-
-```python
 kuntal = {
-    "role"        : "Data Scientist,
-    "location"    : "India"
-    "focus"       : ["Gen AI", "Agentic AI", "LLMs", "Customer Analytics"],
-    "expertise"   : ["ML/DL", "PySpark", "NLP", "CRM Automation"],
-    "ask_me_about": ["Python", "SQL", "PySpark", "ML", "GenAI", "LangChain", "LangGraph"],
-    "contact"     : ["kuntalmentor@gmail.com", "kuntal_c@yahoo.in"],
-    "fun_fact"    : "I turn raw data into business decisions 🚀"
+    "role": "Senior Data Scientist",
+    "focus": ["GenAI", "Agentic AI", "LLMs", "Customer Intelligence"],
+    "expertise": ["Machine Learning", "PySpark", "NLP", "Recommendation Systems"],
+    "tools": ["Python", "SQL", "Databricks", "LangChain", "LangGraph"],
+    "mission": "Building scalable AI systems that drive business impact"
 }
-```
 
 ---
 
-## 🔥 What I'm Up To
+⚡ What I Build
 
-<table>
-<tr>
-<td width="50%">
-
-🔭 **Currently Building**
-- 🤖 Gen AI & Agentic AI pipelines
-- 🧬 LangGraph multi-agent systems
-- 📊 Customer Analytics at scale
-
-</td>
-<td width="50%">
-
-🌱 **Currently Learning**
-- 🧠 LLMs & Prompt Engineering
-- ⛓️ LangChain / LangGraph
-- ☁️ MLOps on Cloud
-
-</td>
-</tr>
-</table>
+- 🚀 End-to-end ML Systems (from feature engineering → deployment)
+- 🤖 LLM Apps & RAG Pipelines
+- 🧠 Customer Intelligence Models (churn, uplift, recommendations)
+- ⚙️ Agentic AI workflows using LangGraph
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-### 🤖 AI / ML / GenAI
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+AI / ML / GenAI
 
-### 🗄️ Data & Cloud
-![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### 🧰 Tools & Frameworks
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+"Python" (https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+"PySpark" (https://img.shields.io/badge/PySpark-111?style=for-the-badge&logo=apachespark)
+"LangChain" (https://img.shields.io/badge/LangChain-111?style=for-the-badge)
+"OpenAI" (https://img.shields.io/badge/OpenAI-111?style=for-the-badge&logo=openai)
 
 ---
 
-## 📊 GitHub Stats
+📌 Featured Work (Add your best repos here)
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kuntal2022&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuntal2022&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kuntal2022&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
+- 🔹 Churn Prediction System – ML pipeline with business impact
+- 🔹 Customer Uplift Model – Identifying high-value segments
+- 🔹 RAG-based AI Assistant – PDF + LLM powered Q&A
 
 ---
 
-## 🏆 GitHub Trophies
+📫 Reach Me
 
-<div align="center">
+- 📧 kuntalmentor@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/kuntalchakrabortyindia/    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+  </a>
+</p></div>---
 
-<img src="https://github-profile-trophy.vercel.app/?username=kuntal2022&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+🧠 About Me
 
-</div>
+kuntal = {
+    "role": "Senior Data Scientist",
+    "focus": ["GenAI", "Agentic AI", "LLMs", "Customer Intelligence"],
+    "expertise": ["Machine Learning", "PySpark", "NLP", "Recommendation Systems"],
+    "tools": ["Python", "SQL", "Databricks", "LangChain", "LangGraph"],
+    "mission": "Building scalable AI systems that drive business impact"
+}
 
 ---
 
-## 📈 Contribution Graph
+⚡ What I Build
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kuntal2022&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-
-</div>
+- 🚀 End-to-end ML Systems (from feature engineering → deployment)
+- 🤖 LLM Apps & RAG Pipelines
+- 🧠 Customer Intelligence Models (churn, uplift, recommendations)
+- ⚙️ Agentic AI workflows using LangGraph
 
 ---
 
-<div align="center">
+🛠️ Tech Stack
 
-### 💡 "Data is the new oil — but I'm the refinery." ⚙️
+AI / ML / GenAI
 
-<br/>
+"Python" (https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+"PySpark" (https://img.shields.io/badge/PySpark-111?style=for-the-badge&logo=apachespark)
+"LangChain" (https://img.shields.io/badge/LangChain-111?style=for-the-badge)
+"OpenAI" (https://img.shields.io/badge/OpenAI-111?style=for-the-badge&logo=openai)
 
-⭐ **If you find my work useful, don't forget to star my repos!** ⭐
+---
 
-</div>
+📌 Featured Work (Add your best repos here)
+
+- 🔹 Churn Prediction System – ML pipeline with business impact
+- 🔹 Customer Uplift Model – Identifying high-value segments
+- 🔹 RAG-based AI Assistant – PDF + LLM powered Q&A
+
+---
+
+📫 Reach Me
+
+- 📧 kuntalmentor@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/kuntalchakrabortyindia/
