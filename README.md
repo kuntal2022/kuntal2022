@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kuntal+Chakraborty+%F0%9F%91%8B;Senior+Data+Scientist+%F0%9F%93%88;ML+%7C+GenAI+%7C+LLMs+%7C+Agentic+AI;Building+Intelligent+Systems+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kuntal+Chakraborty+%F0%9F%91%8B;Senior+Data+Scienti
+st+%F0%9F%93%88;ML+%7C+GenAI+%7C+LLMs+%7C+Agentic+AI;Building+Intelligent+Systems+%F0%9F%A4%96" alt="Typing SVG" />
 
 <br/>
 
@@ -34,11 +35,11 @@
 
 ```python
 kuntal = {
-    "role"        : "Data Scientist @ Landmark Group",
-    "location"    : "Indai",
+    "role"        : "Data Scientist,
+    "location"    : "India"
     "focus"       : ["Gen AI", "Agentic AI", "LLMs", "Customer Analytics"],
     "expertise"   : ["ML/DL", "PySpark", "NLP", "CRM Automation"],
-    "ask_me_about": ["Python", "SQL", "PySpark", "ML", "GenAI", "LangChain"],
+    "ask_me_about": ["Python", "SQL", "PySpark", "ML", "GenAI", "LangChain", "LangGraph"],
     "contact"     : ["kuntalmentor@gmail.com", "kuntal_c@yahoo.in"],
     "fun_fact"    : "I turn raw data into business decisions 🚀"
 }
