@@ -20,7 +20,7 @@
 
 ### 🧠 About Me
 
-I'm a **Senior Data Scientist** at **Landmark Group**, based in Bangalore, India — focused on GenAI, agentic AI, LLMs, and customer intelligence.
+I'm a **Senior Data Scientist** based in Bangalore, India — focused on GenAI, agentic AI, LLMs, and customer intelligence.
 
 My work spans machine learning, distributed computing with PySpark, NLP, and recommendation systems, using Python, SQL, Databricks, LangChain, and LangGraph.
 
