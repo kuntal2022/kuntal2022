@@ -22,7 +22,7 @@
 
 I'm a **Senior Data Scientist** based in Bangalore, India — focused on GenAI, agentic AI, LLMs, and customer intelligence.
 
-My work spans machine learning, distributed computing with PySpark, NLP, and recommendation systems, using Python, SQL, Databricks, LangChain, and LangGraph.
+My work spans machine learning, distributed computing with PySpark, NLP, and recommendation systems, using Python, SQL, Azure, LangChain, and LangGraph, RAG, Agents.
 
 **Mission:** building scalable AI systems that drive real business impact.
 
