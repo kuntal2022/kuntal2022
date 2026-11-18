@@ -22,7 +22,7 @@
 
 I'm a **AI/ML Engineer** based in Bangalore, India — focused on GenAI, agentic AI, LLMs, and customer intelligence.
 
-My work spans Agents, RAG, machine learning, distributed computing with PySpark, NLP, using Python, SQL, Azure, LangChain, and LangGraph, RAG, Agents.
+My work spins arround Agents, RAG, Machine learning, Forecasting, Deployment (Mainly in AZURE ecosystem)
 
 **Mission:** building scalable AI systems that drive real business impact.
 
@@ -30,7 +30,7 @@ My work spans Agents, RAG, machine learning, distributed computing with PySpark,
 
 ### ⚡ What I Build
 
-- 🚀 **End-to-end ML systems** — from feature engineering through production deployment
+- 🚀 **End-to-end AI/ML systems** — from feature engineering through production deployment
 - 🤖 **LLM apps & RAG pipelines** — retrieval-augmented generation over real business data
 - 🧠 **Customer intelligence models** — churn prediction, uplift modeling, recommendations
 - ⚙️ **Agentic AI workflows** — multi-step, tool-using agents built with LangGraph
@@ -54,7 +54,7 @@ My work spans Agents, RAG, machine learning, distributed computing with PySpark,
 
 ### 📌 Featured Work
 
-- 🔹 [**Deep-RNN**](https://github.com/kuntal2022/Deep-RNN) — Stacked SimpleRNN / LSTM+GRU hybrid notebooks for IMDB sentiment classification
+- 🔹 [**Pharma Study Helper**](https://github.com/kuntal2022/Pharma_Study_Helper) — Agent + UI that helps pharma marketing, Sales Team
 - 🔹 [**TransFormer-DeepLearning**](https://github.com/kuntal2022/TransFormer-DeepLearning) — Transformer encoder built from scratch (positional encoding + multi-head attention) for univariate and multivariate time series forecasting
 - 🔹 **Churn Prediction System** — ML pipeline with measurable business impact
 - 🔹 **Customer Uplift Model** — identifying high-value segments for targeted campaigns
