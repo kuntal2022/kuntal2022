@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Kuntal+Chakraborty;Senior+Data+Scientist;GenAI+%7C+LLMs+%7C+Agentic+AI;Building+AI+Products+at+Scale" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Kuntal+Chakraborty;AI%2FML+Engineer;GenAI+%7C+LLMs+%7C+Agentic+AI;Building+AI+Products+at+Scale" />
 
 <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="320"/>
 
@@ -22,7 +22,7 @@
 
 I'm a **AI/ML Engineer** based in Bangalore, India — focused on GenAI, agentic AI, LLMs, and customer intelligence.
 
-My work spans machine learning, distributed computing with PySpark, NLP, and recommendation systems, using Python, SQL, Azure, LangChain, and LangGraph, RAG, Agents.
+My work spans Agents, RAG, machine learning, distributed computing with PySpark, NLP, using Python, SQL, Azure, LangChain, and LangGraph, RAG, Agents.
 
 **Mission:** building scalable AI systems that drive real business impact.
 
